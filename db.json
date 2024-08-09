@@ -1,0 +1,19 @@
+{
+    "products": [
+      { "id": 1, "name": "Product 1", "price": 10, "count": 100 },
+      { "id": 2, "name": "Product 2", "price": 20, "count": 50 },
+      { "id": 3, "name": "Product 3", "price": 30, "count": 200 },
+      { "id": 4, "name": "Product 4", "price": 40, "count": 150 },
+      { "id": 5, "name": "Product 5", "price": 50, "count": 250 },
+      { "id": 6, "name": "Product 6", "price": 60, "count": 350 },
+      { "id": 7, "name": "Product 7", "price": 70, "count": 180 },
+      { "id": 8, "name": "Product 8", "price": 80, "count": 120 },
+      { "id": 9, "name": "Product 9", "price": 90, "count": 170 },
+      { "id": 10, "name": "Product 10", "price": 100, "count": 90 },
+      { "id": 11, "name": "Product 11", "price": 85, "count": 450 },
+      { "id": 12, "name": "Product 12", "price": 55, "count": 430 },
+      { "id": 13, "name": "Product 13", "price": 75, "count": 280 },
+      { "id": 14, "name": "Product 14", "price": 45, "count": 370 },
+      { "id": 15, "name": "Product 15", "price": 95, "count": 270 }
+    ]
+  }
